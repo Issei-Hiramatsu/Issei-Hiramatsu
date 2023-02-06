@@ -4,6 +4,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Issei-Hiramatsu&show_icons=true&theme=tokyonight&layout=compact" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=Issei-Hiramatsu&theme=onedark" />
+</a>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
