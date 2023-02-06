@@ -1,2 +1,1 @@
-[![Issei-Hiramatsu GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Issei-Hiramatsu&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/Issei-Hiramatsu/github-readme-stats#gh-dark-mode-only)
-[![Issei-Hiramatsu GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Issei-Hiramatsu&show_icons=true&theme=tokyonight#gh-light-mode-only)](https://github.com/Issei-Hiramatsu/github-readme-stats#gh-light-mode-only)
+[![Issei-Hiramatsu GitHub](https://github-readme-stats.vercel.app/api?username=Issei-Hiramatsu&show_icons=true&theme=tokyonigh)(https://github.com/Issei-Hiramatsu/github-readme-stats)
